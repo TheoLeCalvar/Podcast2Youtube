@@ -1,4 +1,4 @@
-mutagen
 feedparser
 google-api-python-client
 google-auth-oauthlib
+oauth2client
